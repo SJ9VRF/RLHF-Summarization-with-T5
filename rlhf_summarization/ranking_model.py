@@ -1,1 +1,1 @@
-
+# Contains RankingModel class
