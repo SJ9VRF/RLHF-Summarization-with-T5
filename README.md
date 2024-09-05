@@ -4,9 +4,7 @@ RLHF-Based Summarization with T5: Implementing Human-Guided Model Training
 ![Screenshot_2024-08-31_at_2 07 02_AM-removebg-preview](https://github.com/user-attachments/assets/ecc15f17-6b02-4798-8feb-b0bd24d27532)
 
 
-Here’s an example of a simple `README.md` file for your RLHF-based summarization project:
 
-```markdown
 # RLHF Summarization
 
 This repository contains an implementation of **Reinforcement Learning from Human Feedback (RLHF)** for text summarization using the T5 model. It allows for supervised fine-tuning, reward model training, and reinforcement learning to improve summarization quality through human feedback.
@@ -145,5 +143,3 @@ This project is based on the work from the InstructGPT paper and inspired by rei
 6. **Dependencies**: Lists the main dependencies, pointing to `requirements.txt` for a complete list.
 7. **License**: Provides information about the project’s licensing.
 8. **Acknowledgments**: References the original work or papers that inspired the project.
-
-This `README.md` provides a comprehensive guide for users to get started with the project, while still being concise.
