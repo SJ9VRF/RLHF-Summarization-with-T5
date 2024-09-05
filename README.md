@@ -131,15 +131,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 This project is based on the work from the InstructGPT paper and inspired by reinforcement learning methods for natural language processing tasks.
-```
-
-### Key Sections:
-
-1. **Project Overview**: Describes the purpose of the project and key features.
-2. **Project Structure**: A brief look at the directory layout to help users understand where different components are located.
-3. **Installation**: Step-by-step instructions for cloning the repository, installing dependencies, and setting up the project.
-4. **Usage**: Explains how to use the `train.py` and `evaluate.py` scripts, with example commands.
-5. **Datasets**: Briefly mentions the use of Huggingface Datasets and how to modify them.
-6. **Dependencies**: Lists the main dependencies, pointing to `requirements.txt` for a complete list.
-7. **License**: Provides information about the project’s licensing.
-8. **Acknowledgments**: References the original work or papers that inspired the project.
