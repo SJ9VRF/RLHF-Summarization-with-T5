@@ -16,25 +16,6 @@ This repository contains an implementation of **Reinforcement Learning from Huma
 - **Reinforcement Learning**: Use the reward model to guide the T5 model in generating higher-quality summaries.
 - **Customizable**: Easily switch models, datasets, and evaluation metrics.
 
-## Project Structure
-
-```
-├── rlhf_summarization/
-│   ├── __init__.py            # Initialize the package
-│   ├── rlhf_processor.py      # Core class for handling RLHF training
-│   ├── ranking_model.py       # Class for the reward model (Distill-RoBERTa)
-│   └── data_utils.py          # Data loading and tokenization utilities
-│
-├── scripts/
-│   ├── train.py               # Script to fine-tune the model and train RLHF
-│   └── evaluate.py            # Script to evaluate the model
-│
-├── README.md                  # Project overview and instructions
-├── requirements.txt           # Project dependencies
-├── setup.py                   # Installation configuration
-└── notebooks/                 # Optional Jupyter notebooks
-```
-
 ## Installation
 
 1. **Clone the repository:**
